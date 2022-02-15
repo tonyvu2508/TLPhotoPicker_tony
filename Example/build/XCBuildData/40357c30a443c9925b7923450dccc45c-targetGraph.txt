@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+TLPhotoPicker-TLPhotoPicker in Pods, no dependencies
+TLPhotoPicker in Pods, depends on:
+TLPhotoPicker-TLPhotoPicker in Pods (explicit)
+Pods-TLPhotoPicker_Example in Pods, depends on:
+TLPhotoPicker in Pods (explicit)
