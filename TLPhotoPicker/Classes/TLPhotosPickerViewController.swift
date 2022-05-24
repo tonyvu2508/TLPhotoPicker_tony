@@ -4,7 +4,7 @@
 //
 //  Created by wade.hawk on 2017. 4. 14..
 //  Copyright © 2017년 wade.hawk. All rights reserved.
-//
+//  Edited by Tony
 
 import UIKit
 import Photos
